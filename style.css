@@ -225,7 +225,7 @@ h4{
     background-color: #C11C14;
     color: #fff;
 }
-.sertificates-container{
+.certificates-container{
     display: flex;
     
     justify-content: center;
@@ -233,7 +233,7 @@ h4{
     margin-bottom: 10px;
     display: none;
 }
-.sertificate{
+.certificate{
     margin:10px;
 }
 .position{

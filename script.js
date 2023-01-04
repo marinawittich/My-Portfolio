@@ -13,7 +13,7 @@ burgerMenu.addEventListener("click", function(){
 const btn = document.querySelector('.btn');
 console.log(btn);
 btn.addEventListener('click', () => {
-    document.querySelector('.sertificates-container').classList.toggle('show');
+    document.querySelector('.certificates-container').classList.toggle('show');
 })
 
 //scroll to top
